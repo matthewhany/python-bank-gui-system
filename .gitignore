@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+bank_data.json
+.env
+.vscode/
+.DS_Store
