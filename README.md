@@ -23,9 +23,8 @@ A simple banking system built with Python using Object-Oriented Programming and 
 - Show transaction history
 
 - Delete account
-
-  - Different account types:
-
+## Different account types:
+  
   &#x20; - Savings Account
 
   &#x20; - Current Account
