@@ -23,14 +23,14 @@ A simple banking system built with Python using Object-Oriented Programming and 
 - Show transaction history
 
 - Delete account
-  
-- Different account types:
 
-&#x20; - Savings Account
+  - Different account types:
 
-&#x20; - Current Account
+  &#x20; - Savings Account
 
-&#x20; - Business Account
+  &#x20; - Current Account
+
+  &#x20; - Business Account
 
 - JSON file storage for saved accounts
 
